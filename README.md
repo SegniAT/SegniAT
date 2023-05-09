@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Segni!</h1>
 <h3 align="center">A passionate frontend web developer from Addis Ababa, Ethiopia.</h3>
 
-- 🌱 I’m currently learning **NextJS + Typescript, Tailwind-css and Framer Motion**
+- 🌱 I’m currently learning **NextJS + Typescript, NestJS, Tailwind-css and Framer Motion**
 
 - 📫 How to reach me **se.segni.adeba@gmail.com**
 
