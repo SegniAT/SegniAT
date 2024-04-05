@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Segni.</h1>
 <h3 align="center">A passionate full-stack software engineer from Addis Ababa, Ethiopia.</h3>
 
-- 🔭 I’m currently working on **greenlight-api** (a CRUD REST API using Go)
+- 🔭 I’m currently working on **building redis from scratch** (an implementation of Redis from scratch using Go)
 
 - 🌱 I’m currently learning **Go, Docker and Svelte**
 
