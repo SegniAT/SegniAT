@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack software engineer from Addis Ababa, Ethiopia.</h3>
 
 - 🔭 I’m currently working on **building redis from scratch** (an implementation of Redis from scratch using Go) and **An Omegle clone** (an online chat(video/audio and text) platform that connects a user with random strangers from all around the world)
-- 🌱 I’m currently learning **Go, Docker and Svelte**
+- 🌱 I’m currently learning **Go and SvelteKit**
 
 - 📫 How to reach me **se.segni.adeba@gmail.com**
 
